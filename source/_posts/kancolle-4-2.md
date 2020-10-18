@@ -22,6 +22,8 @@ icon: fa-music
 
 {% asset_img map2nd4-2.jpg P1 %}
 <br>
-CV CVL CA CL DD DD  
+CV CVL CA CL DD DD  (AS 84)
+<br>
+CV CVL CLT CL DD DD  (AS 84)
 
 
